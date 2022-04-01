@@ -45,6 +45,7 @@ The following animation shows the application's GET routes to return all categor
 * 🔗 https://stackoverflow.com/
 * 🔗 https://chooselicense.com/
 * 🔗 https://img.shields.io/
+* 🔗 https://sequelize.org/
 * 🔗 https://www.npmjs.com/package/mysql2/
 * 🔗 https://www.npmjs.com/package/inquirer/
 * 🔗 https://www.npmjs.com/package/console.table/
