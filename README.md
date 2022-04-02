@@ -4,9 +4,8 @@
 A back-end for an e-commerce site using Express.js, Sequelize, dotenv, and MySQL.
 
 ## Live Links
-* 📽️ Demo: 
-* 🌍 Published:  
-* 🌍 Repository: 
+* 📽️ Demo: https://screencast-o-matic.com/watch/c3fV08VqZEt 
+* 🌍 Repository: https://github.com/mblackwellgca/E-Commerce-Back-End
 
 ## Description
 * AS A manager at an internet retail company
@@ -35,8 +34,8 @@ GIVEN a functional Express.js API
 ## Usage
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia along with a demo to show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.:
 
-* ![img](./assets/images/)
-* ![demo]()
+* ![get tags img](./assets/images/get-tags-insomnia.png)
+* ![project layout](./Assets/images/e-commerce-layout.png)
 
 ## Credits:
 * 🏫 Sandra Smith
