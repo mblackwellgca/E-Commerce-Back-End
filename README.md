@@ -34,8 +34,8 @@ GIVEN a functional Express.js API
 ## Usage
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia along with a demo to show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.:
 
-* ![get tags img](./assets/images/get-tags-insomnia.png)
-* ![project layout](./Assets/images/e-commerce-layout.png)
+![get tags img](./Assets/images/get-tags-insomnia.png)
+![project layout](./Assets/images/e-commerce-layout.png)
 
 ## Credits:
 * 🏫 Sandra Smith
